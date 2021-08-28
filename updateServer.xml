@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>0.0.0.1</version>
-    <url>https://github.com/yosi-payplus/.net-updateServer/releases/download/0.0.0.1/PayPlus_exe_dll.exe</url>
+    <version>1.0.0.1</version>
+    <url>https://github.com/yosi-payplus/.net-updateServer/releases/download/1.0.0.1/PayPlus_exe_dll.exe</url>
     <mandatory>true</mandatory>
 </item>
